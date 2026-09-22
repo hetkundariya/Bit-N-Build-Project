@@ -101,3 +101,4 @@ Migrations are managed in `supabase/migrations/`:
 
 ## 📄 License
 MIT License. Built for DDU Campus • GDG Hackathon.
+"# Bit-N-Build-Project" 
